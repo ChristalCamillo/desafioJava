@@ -66,7 +66,7 @@ public class imposto {
         } else {
             System.out.println("Erro, digite um número válido");
         }
-    }while(iteração <= 100);
+    }while(true);
 
         }
 
